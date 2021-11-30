@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<database-config>
+    <postgresql>
+        <connection>
+            <jdbcUrl value="jdbc:postgresql://192.168.0.127:5432/postgres"/>
+            <username value="postgres"/>
+            <password value="postgres"/>
+        </connection>
+    </postgresql>
+</database-config>

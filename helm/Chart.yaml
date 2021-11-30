@@ -1,0 +1,5 @@
+apiVersion: v2
+appVersion: {{ 1.0.0 | quote }}
+name: cors-application
+home: http://google.com
+version: 1.12.1
